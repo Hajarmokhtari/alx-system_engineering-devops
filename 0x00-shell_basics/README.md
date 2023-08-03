@@ -8,3 +8,4 @@ mkdir: creates a directory.
 mv: move a file.
 rv: delete a file
 rmdir: delete a directory.
+cd -: changes the working directory to the previous one
